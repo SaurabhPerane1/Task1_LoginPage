@@ -68,3 +68,8 @@ input {
     background-color: #8900fa;
     box-shadow: 0vmin 1vmin 10vmin purple;
 }
+
+.alert{
+    margin-top: 40vh;
+    text-align: center;
+}
